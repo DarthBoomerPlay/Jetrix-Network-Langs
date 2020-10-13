@@ -1,6 +1,10 @@
 GLOBAL-BOSSBAR-TEXT:
 - '§Играйте §f{server-name} §eна §a§lJETRIX.FUN'
 - '§aРанги, §cБустеры §7и другое! §f§l‣ §6§lJETRIX.FUN'
+GLOBAL-TAB-HEADER:
+- '§bВы играете на §e§lJETRIX.FUN'
+GLOBAL-TAB-FOOTER:
+- '§aРанги, Бустеры и другое! §c§lJETRIX.FUN'
 
 SKYWARS-SCORENAME-LOBBY: '§e§lSKYWARS'
 SKYWARS-SCOREBOARD-LOBBY:
