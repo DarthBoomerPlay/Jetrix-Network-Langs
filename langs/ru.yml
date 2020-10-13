@@ -9,6 +9,6 @@ SKYWARS-SCOREBOARD-LOBBY:
 - '§a▸ §fПобед: §e{team_wins}'
 - ''
 - '§fМонет: §a{coins}'
-- '§fДуши: §b{current_souls}§8/§7{max_souls}'
+- '§fДуши: §b{current_souls}§8/§710'
 - ''
-- 'www.jetrix.fun'
+- '§ewww.jetrix.fun'
