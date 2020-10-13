@@ -1,0 +1,10 @@
+#
+#  Разработчик: DarthBoomerPlay_
+#  Сайт Разработчика: darthboomerplay.github.io
+#
+
+kits:
+ test:
+   type: normal
+   name: 'Тестовый кит'
+   cost: 2500
