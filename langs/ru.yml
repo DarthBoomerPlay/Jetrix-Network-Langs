@@ -1,3 +1,7 @@
+GLOBAL-BOSSBAR-TEXT:
+- '§Играйте §f{server-name} §eна §a§lJETRIX.FUN'
+- '§aРанги, §cБустеры §7и другое! §f§l‣ §6§lJETRIX.FUN'
+
 SKYWARS-SCORENAME-LOBBY: '§e§lSKYWARS'
 SKYWARS-SCOREBOARD-LOBBY:
 - ''
@@ -12,3 +16,4 @@ SKYWARS-SCOREBOARD-LOBBY:
 - '§fДуши: §b{current_souls}§8/§710'
 - ''
 - '§ewww.jetrix.fun'
+
