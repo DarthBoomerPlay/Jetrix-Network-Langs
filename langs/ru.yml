@@ -5,6 +5,9 @@ GLOBAL-TAB-HEADER:
 - '§bВы играете на §e§lJETRIX.FUN'
 GLOBAL-TAB-FOOTER:
 - '§aРанги, Бустеры и другое! §c§lJETRIX.FUN'
+GLOBAL-COMPASS-NAME: '§aИгровое меню'
+GLOBAL-COMPASS-LORE:
+- '§7Нажмите ПКМ, чтобы открыть игровое меню'
 
 SKYWARS-SCORENAME-LOBBY: '§e§lSKYWARS'
 SKYWARS-SCOREBOARD-LOBBY:
