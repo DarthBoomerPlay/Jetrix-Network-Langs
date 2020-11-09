@@ -1,3 +1,1 @@
-server-name: 'Jetrix Network'
-website: 'www.jetrix.fun'
-prefix: '§eJetrix Network §8| §f'
+level-formula: '250*%level%'
