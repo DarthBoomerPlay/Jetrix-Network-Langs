@@ -3,3 +3,16 @@ message-new-level:
 - '§6                               §a§k §6 §6НОВЫЙ УРОВЕНЬ! §a§k '
 - '§7                       У вас теперь &a%level% §3Jetrix уровень!'
 - '§a&l▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪'
+
+message-jetrix-help:
+- '§c§lПОМОЩЬ:'
+- '§7/jetrix add [игрок] [xp/level] [число] - §fдобавить xp/level'
+- '§7/jetrix subtract [игрок] [xp/level] [число] - §fотбавить xp/level'
+- '§7/jetrix set [игрок] [xp/level] [число] - §fустановить xp/level'
+
+message-jetrix-online: '§cДанный игрок не в сети'
+message-jetrix-type: '§cДанный тип неверный (xp/level)'
+message-jetrix-notint: '§cВам нужно вписать число'
+message-jetrix-give: '§aВы выдали §7%player% §e%type% §b%amount%'
+message-jetrix-subtrack: '§aВы забрали §7%player% §e%type% §b%amount%'
+message-jetrix-set: '§aВы установили §7%player% §e%type% §b%amount%'
