@@ -38,12 +38,12 @@ lobby-profile-name: '§aПрофиль §7(ПКМ)'
 lobby-profile-lore:
 - '§7Нажмите ПКМ, чтобы открыть профиль'
 
-lobby-hider-v-name: '§aПоказать игроков §7(ПКМ)'
-lobby-hider-h-name: '§cСкрыть игроков §7(ПКМ)'
+lobby-hider-v-name: '§aСкрыть игроков§7(ПКМ)'
+lobby-hider-h-name: '§cПоказать игроков §7(ПКМ)'
 lobby-hider-v-lore:
-- '§7Нажмите ПКМ, чтобы показать игроков'
-lobby-hider-h-lore:
 - '§7Нажмите ПКМ, чтобы скрыть игроков'
+lobby-hider-h-lore:
+- '§7Нажмите ПКМ, чтобы показать игроков'
 
 lobby-hider-msg: '§dJETRIX §8| §fВы скрыли игроков'
 lobby-shower-msg: '§dJETRIX §8| §fВы показали игроков'
