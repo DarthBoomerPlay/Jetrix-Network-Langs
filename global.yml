@@ -26,6 +26,6 @@ lobby-scoreboard-lines:
 - '§fУровень: §a{level}'
 - '§fОпыт: §a{currentXP}§8/§a{needXP}'
 - ''
-- '§fСервер: §a{server_name}'
+- '§fСервер: §aHub-1'
 - ''
 - '§ewww.jetrix.fun'
