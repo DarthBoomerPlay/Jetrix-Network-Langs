@@ -29,3 +29,18 @@ lobby-scoreboard-lines:
 - '§fСервер: §aHub-1'
 - ''
 - '§ewww.jetrix.fun'
+
+lobby-compass-name: '§aМеню сервера §7(ПКМ)'
+lobby-compass-lore:
+- '§7Нажмите ПКМ, чтобы открыть меню сервера'
+
+lobby-profile-name: '§aПрофиль §7(ПКМ)'
+lobby-profile-lore:
+- '§7Нажмите ПКМ, чтобы открыть профиль'
+
+lobby-hider-v-name: '§aПоказать игроков §7(ПКМ)'
+lobby-hider-h-name: '§cСкрыть игроков §7(ПКМ)'
+lobby-hider-v-lore:
+- '§7Нажмите ПКМ, чтобы показать игроков'
+lobby-hider-h-lore:
+- '§7Нажмите ПКМ, чтобы скрыть игроков'
