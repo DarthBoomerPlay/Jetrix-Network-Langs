@@ -38,7 +38,7 @@ lobby-profile-name: '§aПрофиль §7(ПКМ)'
 lobby-profile-lore:
 - '§7Нажмите ПКМ, чтобы открыть профиль'
 
-lobby-hider-v-name: '§aСкрыть игроков§7(ПКМ)'
+lobby-hider-v-name: '§aСкрыть игроков §7(ПКМ)'
 lobby-hider-h-name: '§cПоказать игроков §7(ПКМ)'
 lobby-hider-v-lore:
 - '§7Нажмите ПКМ, чтобы скрыть игроков'
