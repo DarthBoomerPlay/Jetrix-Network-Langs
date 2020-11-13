@@ -45,5 +45,8 @@ lobby-hider-v-lore:
 lobby-hider-h-lore:
 - '§7Нажмите ПКМ, чтобы скрыть игроков'
 
+lobby-hider-msg: '§dJETRIX §8| §fВы скрыли игроков'
+lobby-shower-msg: '§dJETRIX §8| §fВы показали игроков'
+
 lobby-joinmsg: '{rank} {player} §eприсоединился в лобби!'
 lobby-chat: '{rank} {player}§7: §f{message}'
