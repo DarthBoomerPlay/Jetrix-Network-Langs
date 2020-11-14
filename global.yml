@@ -17,7 +17,7 @@ message-jetrix-give: '§aВы выдали §7%player% §e%type% §b%amount%'
 message-jetrix-subtrack: '§aВы забрали §7%player% §e%type% §b%amount%'
 message-jetrix-set: '§aВы установили §7%player% §e%type% §b%amount%'
 
-lobby-scoreboard-title: '§dJETRIX'
+lobby-scoreboard-title: '§d§lJETRIX'
 lobby-scoreboard-lines:
 - ''
 - '§fРанг: {rank}'
