@@ -17,6 +17,23 @@ message-jetrix-give: '§aВы выдали §7%player% §e%type% §b%amount%'
 message-jetrix-subtrack: '§aВы забрали §7%player% §e%type% §b%amount%'
 message-jetrix-set: '§aВы установили §7%player% §e%type% §b%amount%'
 
+tab-sorter:
+- 'owner:1'
+- 'tmod:2'
+- 'hmod:3'
+- 'mod:4'
+- 'cm:5'
+- 'build:6'
+- 'jetrix:7'
+- 'yt:8'
+- 'quantum+:9'
+- 'quantum:10'
+- 'mvp:11'
+- 'premium:12'
+- 'vip:13'
+- 'iron:14'
+- 'default:15'
+
 lobby-scoreboard-title: '§d§lJETRIX'
 lobby-scoreboard-lines:
 - ''
