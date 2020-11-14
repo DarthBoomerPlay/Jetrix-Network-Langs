@@ -48,5 +48,7 @@ lobby-hider-h-lore:
 lobby-hider-msg: '§dJETRIX §8| §fВы скрыли игроков'
 lobby-shower-msg: '§dJETRIX §8| §fВы показали игроков'
 
+lobby-items-cooldown: '§dJETRIX §8| §cВы сможете использовать через §e{time}с'
+
 lobby-joinmsg: '{rank} {player} §eприсоединился в лобби!'
 lobby-chat: '{rank} {player}§7: §f{message}'
