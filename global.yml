@@ -124,3 +124,11 @@ amongus-lobby-unlocked: '§6Вы разблокировали §a{pet}'
 amongus-lobby-dont-have-money: '§cУ вас недостаточно монет!'
 
 amongus-lobby-not-server: '§cНа данный момент нет запущенных игр!'
+
+amongus-commands-help:
+- '§c§lПОМОЩЬ:'
+- '§7/amongus create [имя] §f- создание арены'
+- '§7/amongus mainbutton §f- установка кнопки вызова'
+- '§7/amongus taskbutton [ID задания] §f- установка кнопок заданий'
+- '§7/amongus setspawn [ID (1-8)] §f- установка точек спавн'
+- '§7/amongus setlobby §f- установка точки лобби'
