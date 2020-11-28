@@ -105,3 +105,16 @@ lobby-profile-social-lore:
 - '§7Сайт: §ewww.jetrix.fun'
 - '§7Форум: §aforum.jetrix.fun'
 - '§7Группа ВКонтакте: §bvk.com/jetrixnetwork'
+
+amongus-lobby-scoreboard-title: '§d§lJETRIX'
+amongus-lobby-scoreboard-lines:
+- ''
+- 'Статистика:'
+- ' §8► §fУбийств: §a{kills}'
+- ' §8► §fСмертей: §a{deaths}'
+- ' §8► §fВы были предателем: §a{impostors}'
+- ' §8► §fВы были экипажем: §a{crewmates}'
+- ''
+- 'Монеты: §e{amongus_money}'
+- ''
+- '§ewww.jetrix.fun'
