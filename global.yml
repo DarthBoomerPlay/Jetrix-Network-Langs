@@ -118,3 +118,6 @@ amongus-lobby-scoreboard-lines:
 - 'Монеты: §e{amongus_money}'
 - ''
 - '§ewww.jetrix.fun'
+
+amongus-lobby-selected: '§6Вы выбрали §a{pet}'
+amongus-lobby-unlocked: '§6Вы разблокировали §a{pet}'
