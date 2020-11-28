@@ -122,3 +122,5 @@ amongus-lobby-scoreboard-lines:
 amongus-lobby-selected: '§6Вы выбрали §a{pet}'
 amongus-lobby-unlocked: '§6Вы разблокировали §a{pet}'
 amongus-lobby-dont-have-money: '§cУ вас недостаточно монет!'
+
+amongus-lobby-not-server: '§cНа данный момент нет запущенных игр!'
