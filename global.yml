@@ -132,3 +132,8 @@ amongus-commands-help:
 - '§7/amongus taskbutton [ID задания] §f- установка кнопок заданий'
 - '§7/amongus setspawn [ID (1-8)] §f- установка точек спавн'
 - '§7/amongus setlobby §f- установка точки лобби'
+
+amongus-joingame: '§7{player} §aприсоединился к игре §7(§b{online}/10§7)!'
+amongus-quitgame: '§7{player} §cотключился!'
+
+amongus-start: '§aИгра начнется через §e{sec} секунд'
