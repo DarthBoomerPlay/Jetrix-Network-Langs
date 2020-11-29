@@ -137,3 +137,13 @@ amongus-joingame: '§7{player} §aприсоединился к игре §7(§b
 amongus-quitgame: '§7{player} §cотключился!'
 
 amongus-start: '§aИгра начнется через §e{sec} секунд'
+amongus-game-lines:
+- ''
+- 'Игроков: §a{current}/10'
+- ''
+- '{display}'
+- ''
+- 'Карта: §a{map}'
+- 'Сервер: §a{server}'
+- ''
+- '§ewww.jetrix.fun'
